@@ -1,5 +1,5 @@
 {
-    "name": "legend/secret-weapon",
+    "name": "legendhasit/secret-weapon",
     "type": "project",
     "license": "MIT",
     "description": "WordPress boilerplate with Composer, easier configuration, and an improved folder structure",
@@ -12,7 +12,7 @@
         },
         {
             "name": "Deangelis Pedro",
-            "email": "deangelisp@gmail.com",
+            "email": "deangelissp@gmail.com",
             "homepage": "https://deangelispedro.com/"
         }
     ],
