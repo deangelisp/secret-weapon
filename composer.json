@@ -2,7 +2,7 @@
     "name": "legendhasit/secret-weapon",
     "type": "project",
     "license": "MIT",
-    "description": "WordPress boilerplate with Composer, easier configuration, and an improved folder structure",
+    "description": "It's an impressive WordPress setup built with the powerful combination of Bedrock by Roots and the Sage theme by Roots. This exceptional configuration also incorporates MUDev Plugins and ACF, resulting in a development masterpiece crafted by our team of Legends. We affectionately refer to it as our secret weapon.",
     "homepage": "https://legendhasit.co.nz/secret-weapon",
     "authors": [
         {
